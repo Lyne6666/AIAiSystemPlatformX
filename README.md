@@ -1,2 +1,1 @@
-# AIAiSystemPlatformX
-Advanced AIAiSystemPlatformX project
+.
